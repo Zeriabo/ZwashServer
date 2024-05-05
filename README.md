@@ -1,0 +1,2 @@
+# ZwashServer
+Zwash Server

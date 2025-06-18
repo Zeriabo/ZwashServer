@@ -13,9 +13,8 @@
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.zwash</groupId>
+	<groupId>com.zwash.server</groupId>
 	<artifactId>zwash-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>zwash-server</name>
 	<description>Zwash Server</description>
 
